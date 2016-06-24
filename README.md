@@ -1,3 +1,7 @@
+## Deprecation notice
+
+This package is deprecated. Please use [contentful-extension-cli](https://www.npmjs.com/package/contentful-extension-cli).
+
 ## Introduction [![Build Status](https://travis-ci.com/contentful/contentful-widget-cli.svg?token=GuTGqA8WbzXbprUpRd2Y&branch=master)](https://travis-ci.com/contentful/contentful-widget-cli)
 Contentful allows customers to customize and tailor the UI using custom made widgets. Widgets have to be uploaded to Contentful in order to be able to use them in the UI.
 
